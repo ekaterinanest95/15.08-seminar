@@ -59,3 +59,5 @@ Console.WriteLine($"Сумма чисел от 1 до {A} = {GetSumNumbers(A)}")
 
 
 
+
+
